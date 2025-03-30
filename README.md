@@ -1,8 +1,11 @@
 Data Professional Survey Breakdown 
+
 Overview
+
 This project is an in-depth data visualization analysis of a compelling survey dataset comprising responses from over 600 data professionals. The dataset provides a broad view of the opinions, experiences, and preferences of data analysts across multiple dimensions, such as job titles, salary, programming languages, work-life balance, career transitions, and more. Using Power BI, I created a series of impactful visualizations to showcase the insights and trends derived from the data. The key goal was to make the data not just informative but also actionable, providing a clear view of the state of the data profession.
 
 Data Processing & Visualization
+
 1. Dataset Breakdown
 The dataset consists of multiple fields related to the professional experiences of data analysts. Key fields include:
 
@@ -95,6 +98,6 @@ GitHub (for sharing this project)
 
 Contact:
 
-GitHub:https://github.com/NazmulKhanRub
+GitHub: https://github.com/NazmulKhanRub
 
 LinkedIn: https://www.linkedin.com/in/nazmul-hasan-khan
